@@ -1,0 +1,14 @@
+{
+  "name": "lunch-decisions",
+  "version": "1.0.2",
+  "description": "Tired of making lunch decisions while at DigitalCrafts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DigitalCrafts"
+  ],
+  "author": "Kyle Luck",
+  "license": "ISC"
+}
