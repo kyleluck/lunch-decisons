@@ -1,6 +1,6 @@
 {
   "name": "lunch-decisions",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tired of making lunch decisions while at DigitalCrafts",
   "bin": {
     "lunch-decisions": "bin.js"
